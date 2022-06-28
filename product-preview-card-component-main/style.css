@@ -2,8 +2,13 @@
     box-sizing: border-box;
 }
 
+body{
+    *background-color: hsl(30, 38%, 92%);
+}
+
 .container{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -106,6 +111,15 @@
     background-color: #1A4031;
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    margin-top: 2em;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
 
 @media screen and (max-width : 600px){
 
@@ -144,3 +158,4 @@
         margin-top: 2em;
     }
 }
+
