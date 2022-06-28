@@ -26,7 +26,7 @@ Users should be able to:
 - Flexbox
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CrescentVisor)
-- Twitter - [@yourusername](https://www.twitter.com/@VeilAstral)
+- Frontend Mentor - [@CrescentVisor](https://www.frontendmentor.io/profile/CrescentVisor)
+- Twitter - [@VeilAstral](https://www.twitter.com/@VeilAstral)
 
 
