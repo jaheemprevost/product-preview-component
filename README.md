@@ -32,7 +32,7 @@ Users should be able to:
 - Flexbox
 
 ## Author
-- Frontend Mentor - [@CrescentVisor](https://www.frontendmentor.io/profile/CrescentVisor)
-- Twitter - [@VeilAstral](https://www.twitter.com/@VeilAstral)
+- Frontend Mentor - [@jaheemprevost](https://www.frontendmentor.io/profile/jaheemprevost)
+- Twitter - [@JaheemPrevost](https://www.twitter.com/JaheemPrevost)
 
 
